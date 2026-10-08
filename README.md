@@ -19,7 +19,7 @@ A simple JavaScript project created for practice and improving website functiona
 
 ## Live Demo
 
-[View Live Demo](https://table-creator-five.vercel.app/?utm_source=chatgpt.com)
+[View Live Demo](https://table-creator-five.vercel.app/)
 
 ## Created By
 
