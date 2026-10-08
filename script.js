@@ -47,7 +47,7 @@ const clearAll = () => {
 
     userNumber.value = "";
     tableHeading.textContent = "Table of X";
-    tablePara.textContent = "Here is the multiplication table for X";
+    tablePara.textContent = "Enter a number above to create a table";
     table.textContent = "";
 };
 
